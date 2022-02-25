@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A crypto.randomUUID polyfill",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "keywords": [
     "crypto",
     "randomUUID",

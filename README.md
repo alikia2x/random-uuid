@@ -4,4 +4,4 @@ A crypto.randomUUID polyfill from [Stack Overflow](https://stackoverflow.com/a/8
 
 **[LICENSE](https://creativecommons.org/licenses/by-sa/4.0/legalcode)**
 
-Compatible with both IE11 and NodeJS.
+Compatible with all browsers supporting [Web Crypto API](https://caniuse.com/cryptography) but not the `randomUUID` method.
