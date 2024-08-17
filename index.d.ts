@@ -8,6 +8,6 @@ declare global {
 	}
 }
 
-declare module "@alikia2x/random-uuid" {
+declare module "@alikia/random-uuid" {
 	export function randomUUID(): string;
 }
